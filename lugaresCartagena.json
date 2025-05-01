@@ -1,0 +1,39 @@
+{
+    "fecha_creacion": "2025-05-01 15:03:13",
+    "triangulo": {
+        "puntos": [
+            {
+                "nombre": "chapacua, cartagena ",
+                "latitud": 10.4012981,
+                "longitud": -75.4779674,
+                "x_transf": 0.0,
+                "y_transf": 0.0,
+                "distancia_desde_origen": 0.0
+            },
+            {
+                "nombre": "13 de junio cartagena ",
+                "latitud": 10.4030092,
+                "longitud": -75.4806501,
+                "x_transf": -293.3999319412751,
+                "y_transf": 190.26563898147123,
+                "distancia_desde_origen": 349.4521353038065
+            },
+            {
+                "nombre": "4 vientos cartagena ",
+                "latitud": 10.4068593,
+                "longitud": -75.5018558,
+                "x_transf": -2612.596153551596,
+                "y_transf": 618.3772260557112,
+                "distancia_desde_origen": 2687.1611509608124
+            }
+        ],
+        "distancias": {
+            "punto1_punto2": 349.4521353038065,
+            "punto2_punto3": 2360.771652852144,
+            "punto3_punto1": 2687.1611509608124
+        },
+        "perimetro": 5397.384939116763,
+        "area_heron": 157176.41603673468,
+        "area_determinante": 157827.72025862423
+    }
+}

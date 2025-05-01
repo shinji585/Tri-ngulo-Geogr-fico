@@ -1,0 +1,39 @@
+{
+    "fecha_creacion": "2025-05-01 14:58:48",
+    "triangulo": {
+        "puntos": [
+            {
+                "nombre": "La Magdalena, Cartagena",
+                "latitud": 37.6555647,
+                "longitud": -1.0743221,
+                "x_transf": 0.0,
+                "y_transf": 0.0,
+                "distancia_desde_origen": 0.0
+            },
+            {
+                "nombre": "El Progreso, Cartagena",
+                "latitud": 10.375556,
+                "longitud": -75.487778,
+                "x_transf": -7558125.131872624,
+                "y_transf": -3033398.5662594237,
+                "distancia_desde_origen": 7944217.6850103345
+            },
+            {
+                "nombre": "Zarabanda, Cartagena",
+                "latitud": 10.4095931,
+                "longitud": -75.4757069,
+                "x_transf": -7555898.643562517,
+                "y_transf": -3029613.8134217304,
+                "distancia_desde_origen": 7940922.642034142
+            }
+        ],
+        "distancias": {
+            "punto1_punto2": 7944217.6850103345,
+            "punto2_punto3": 3990.167593289389,
+            "punto3_punto1": 7940922.642034142
+        },
+        "perimetro": 15889130.494637767,
+        "area_heron": 8936828824.751638,
+        "area_determinante": 10925904546.412642
+    }
+}
