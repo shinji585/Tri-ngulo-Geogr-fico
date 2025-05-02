@@ -1,0 +1,8 @@
+numpy 
+matplotlib 
+geopy 
+geographiclib 
+pandas
+
+# pip install -r requirements.txt
+# usa el comando en la terminal para instalar todas las librerias de una vez
