@@ -1,0 +1,39 @@
+{
+    "fecha_creacion": "2025-05-01 14:56:20",
+    "triangulo": {
+        "puntos": [
+            {
+                "nombre": "Fredonia ",
+                "latitud": 5.9270644,
+                "longitud": -75.6718221,
+                "x_transf": 0.0,
+                "y_transf": 0.0,
+                "distancia_desde_origen": 0.0
+            },
+            {
+                "nombre": "La Magdalena",
+                "latitud": 44.4671803,
+                "longitud": 1.4890137,
+                "x_transf": 7763503.192184084,
+                "y_transf": 4285465.360373292,
+                "distancia_desde_origen": 8531974.596049804
+            },
+            {
+                "nombre": "El Progreso",
+                "latitud": 14.9100436,
+                "longitud": -90.0682728,
+                "x_transf": -1574419.626675977,
+                "y_transf": 998861.7131935967,
+                "distancia_desde_origen": 1861769.3483027113
+            }
+        ],
+        "distancias": {
+            "punto1_punto2": 8531974.596049804,
+            "punto2_punto3": 8985251.109541785,
+            "punto3_punto1": 1861769.3483027113
+        },
+        "perimetro": 19378995.0538943,
+        "area_heron": 7863132990296.597,
+        "area_determinante": 7250893435870.363
+    }
+}
