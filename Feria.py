@@ -393,7 +393,6 @@ def main():
         }
         
         # Mostrar el triángulo con la información de distancias y áreas
-        dibujar_triangulo_con_datos(v0, v1, v2, (d1, d2, d3), area_heron, area_determinante, df_puntos)
         
         # Solicitar un punto para clasificar
         while True:
